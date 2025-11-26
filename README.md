@@ -1,4 +1,7 @@
-Now I'll generate a comprehensive README based on the project structure and functionality:
+(https://github.com/jzheng-chwy/geminiShoppingAgent_0pageviews)
+
+
+
 
 Chewy Automation Agent
 A comprehensive data-driven browser automation framework for Chewy website testing using OpenAI, Playwright, and real user event analysis.
@@ -42,3 +45,4 @@ Python 3.11+
 OpenAI API Key
 Snowflake Access (for data analysis features)
 Playwright Browsers installed
+
